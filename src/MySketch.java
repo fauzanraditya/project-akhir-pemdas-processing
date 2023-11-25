@@ -36,7 +36,7 @@ public class MySketch extends PApplet {
             // reset counter to 0
             duration = 0;
         }
-        // background(colors[colorIndex][0], colors[colorIndex][1], colors[colorIndex][2]);
+        background(colors[colorIndex][0], colors[colorIndex][1], colors[colorIndex][2]);
 
         fill(255, 255, 255);
         xPos += deltaTime * 0.05f;
