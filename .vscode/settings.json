@@ -1,0 +1,16 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\Tugas Sekolah\\Kuliah S-1 Sistem Informasi\\Semester 1\\Pemrograman Dasar - COM60014\\core.jar"
+  ],
+  "liveshare.allowGuestDebugControl": true,
+  "liveshare.allowGuestTaskControl": true,
+  "liveshare.launcherClient": "visualStudioCode",
+  "liveshare.languages.allowGuestCommandControl": true,
+  "liveshare.notebooks.allowGuestExecuteCells": true,
+  "liveshare.alwaysFollowHost": true,
+  "liveshare.anonymousGuestApproval": "accept",
+  "liveshare.diagnosticLogging": true
+}
